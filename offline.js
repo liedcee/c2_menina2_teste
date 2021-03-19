@@ -1,0 +1,30 @@
+﻿{
+	"version": 1616196081,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/garota-sheet0.png",
+		"images/garota-sheet1.png",
+		"images/duri-sheet0.png",
+		"images/ice-sheet0.png",
+		"images/lecet1-sheet0.png",
+		"images/obathmed-sheet0.png",
+		"images/particles.png",
+		"images/penjet-sheet0.png",
+		"images/penjuk1-sheet0.png",
+		"images/perbsm-sheet0.png",
+		"images/robek1-sheet0.png",
+		"images/tempatperbam-sheet0.png",
+		"images/gota-sheet0.png",
+		"images/tisue-sheet0.png",
+		"images/pinca-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
